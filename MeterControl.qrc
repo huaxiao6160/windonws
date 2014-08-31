@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="new">
+    <file>cbackground.bmp</file>
+    <file>background.jpg</file>
+    <file>4.bmp</file>
+    <file>5.bmp</file>
+    <file>kaishi_move.bmp</file>
+    <file>tingzhi_move.bmp</file>
+    <file>empty.bmp</file>
+    <file>turnleft.bmp</file>
+    <file>turnright.bmp</file>
+  </qresource>
+</RCC>
