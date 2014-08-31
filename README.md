@@ -1,1 +1,5 @@
-xiddd
+<<<<<<< HEAD
+eiddd
+=======
+eiddd
+>>>>>>> master
